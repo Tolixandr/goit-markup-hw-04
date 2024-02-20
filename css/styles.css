@@ -19,7 +19,9 @@ h3 {
   margin-top: 0;
   margin-bottom: 0;
 }
-
+img {
+  display: block;
+  }
 .header {
   border-bottom: 1px solid #e7e9fc;
   background: #fff;
